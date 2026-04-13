@@ -1,0 +1,12 @@
+{
+  "export_job_id": "2e36850e-6d67-428b-929c-9e8e9d54b6e7",
+  "id_short": 840207,
+  "published_at": "2026-04-13T07:53:29Z",
+  "repo_name": "all-restaurants-in-chino-california-us-sample-840207",
+  "sample_asset_name": "beamstation_840207_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/840207/beamstation_840207_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 17,
+  "sample_sha256": "6c6a5e9bfbaf4b4920e78a8485dc01e67a670cc1548d551d1ab28a1d0b2aad93",
+  "sample_size_bytes": 84397,
+  "total_records": 172
+}
