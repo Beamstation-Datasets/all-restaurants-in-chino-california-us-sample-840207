@@ -9,9 +9,9 @@
 | Dataset ID | `840207` |
 | Location | Chino |
 | Category | Restaurants |
-| Full dataset size | 169 records |
-| Free sample size | 16 records (9.47%) |
-| Last export | 2026-04-14T11:27:18.511818+00:00 |
+| Full dataset size | 162 records |
+| Free sample size | 16 records (9.88%) |
+| Last export | 2026-04-21T11:51:36.485067+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-chino-california-us-sample-840207/releases/download/sample-latest/beamstation_840207_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
