@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Chino, California. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Chino, California, US",
-  "export_job_id": "743a5d45-ae8b-4469-8157-8b335850c25c",
+  "export_job_id": "51acc030-2d64-4f6a-bf3b-2d32d34f1558",
   "github_org": "Beamstation-Datasets",
   "id_short": 840207,
   "location_name": "Chino",
   "location_type": "city",
   "repo_name": "all-restaurants-in-chino-california-us-sample-840207",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/840207/beamstation_840207_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.47,
+  "sample_pct": 9.88,
   "sample_records": 16,
-  "sample_sha256": "0b53e8b02002d51d97184e7ddc5f8dc8ada39b5f898b9e71378631b9b0bb3f70",
-  "sample_size_bytes": 53282,
-  "total_records": 169,
-  "updated_at": "2026-04-14T11:27:18.511818+00:00"
+  "sample_sha256": "c89f2a7e5a09f5c40d74391886a33a41da5b5853ae915b41936f761e5af21cff",
+  "sample_size_bytes": 69519,
+  "total_records": 162,
+  "updated_at": "2026-04-21T11:51:36.485067+00:00"
 }
