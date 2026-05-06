@@ -1,6 +1,6 @@
 # All Restaurants in Chino, California, US
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `840207` |
 | Location | Chino |
 | Category | Restaurants |
-| Full dataset size | 159 records |
-| Free sample size | 15 records (9.43%) |
-| Last export | 2026-04-28T12:39:04.280819+00:00 |
+| Full dataset size | 182 records |
+| Free sample size | 18 records (9.89%) |
+| Last export | 2026-05-05T20:56:07.209312+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-chino-california-us-sample-840207/releases/download/sample-latest/beamstation_840207_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
